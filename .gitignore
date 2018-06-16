@@ -1,0 +1,8 @@
+## Build generated
+build/
+DerivedData/
+Pods
+*.xcworkspace
+.DS_Store
+xcuserdata/
+*.pbxproj
